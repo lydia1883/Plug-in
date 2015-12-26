@@ -1,2 +1,2 @@
 # plug-in
-plug-in
+jQuery插件的练习
